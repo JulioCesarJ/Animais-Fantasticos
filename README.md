@@ -3,6 +3,7 @@
 <img src="img/banner-animais.png" alt="Exemplo imagem">
 
 > Projeto desenvolvido no curso de Javascript da Origamid.
+> <a href="https://juliocesarj.github.io/Animais-Fantasticos/">Clique aqui para visualizar o projeto</a>
 
 ## 💻 Pré-requisitos
 
